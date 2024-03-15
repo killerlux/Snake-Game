@@ -58,5 +58,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Credits
 
-- **Author:** [Your Name]
+- **Author:** Aymen Kouskoussi , Elené Kardava 
 - **Acknowledgments:** Special thanks to the MIPS assembly community and the developers of the MIPS simulators used to run and test this game.
